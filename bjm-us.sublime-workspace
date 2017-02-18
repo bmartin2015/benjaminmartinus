@@ -48,29 +48,29 @@
 	"buffers":
 	[
 		{
-			"file": "/c/Sites/benjaminmartinus/index.html",
+			"file": "/c/Sites/dbc-text/Week4-Review.txt",
 			"settings":
 			{
-				"buffer_size": 3086,
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/c/Sites/benjaminmartinus/index-test.html",
+			"file": "/d/RailsInstaller/Git/bin/chrome",
 			"settings":
 			{
-				"buffer_size": 554,
+				"buffer_size": 76,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/c/Sites/benjaminmartinus/style.css",
+			"file": "/c/Sites/benjaminmartinus/.git/info/exclude",
 			"settings":
 			{
-				"buffer_size": 392,
+				"buffer_size": 281,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -114,8 +114,12 @@
 	],
 	"file_history":
 	[
-		"/c/Sites/benjaminmartinus/bjm-us.sublime-project",
+		"/c/Sites/dbc-text/Week4.5.txt",
+		"/c/Sites/benjaminmartinus/style.css",
+		"/c/Sites/dbc-text/Week4-CD.txt",
+		"/c/Sites/benjaminmartinus/index-test.html",
 		"/c/Sites/benjaminmartinus/index.html",
+		"/c/Sites/benjaminmartinus/bjm-us.sublime-project",
 		"/c/Sites/devbootcamp/phase-0-tracks/ruby/secret_agents.rb",
 		"/d/RailsInstaller/Git/etc/gitconfig",
 		"/c/Sites/devbootcamp/phase-0-tracks/ruby/hamsters.rb",
@@ -125,8 +129,6 @@
 		"/c/Sites/devbootcamp/phase-0-tracks/ruby/vampires.rb",
 		"/c/Sites/devbootcamp/phase-0-tracks/ruby/algorithms.txt",
 		"/c/Sites/devbootcamp/phase-0-tracks/css/gps/gps2-1.html",
-		"/c/Sites/benjaminmartinus/index-test.html",
-		"/c/Sites/benjaminmartinus/style.css",
 		"/c/Sites/dbc-text/Week3-Review.txt",
 		"/c/Sites/benjaminmartinus/inde",
 		"/c/Sites/devbootcamp/benjamin_j_martin/style.css",
@@ -207,16 +209,16 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/c/Sites/benjaminmartinus/index.html",
+					"file": "/c/Sites/dbc-text/Week4-Review.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3086,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -229,72 +231,69 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1215.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/d/RailsInstaller/Git/bin/chrome",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 76,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "/c/Sites/benjaminmartinus/index-test.html",
+					"buffer": 2,
+					"file": "/c/Sites/benjaminmartinus/.git/info/exclude",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 554,
+						"buffer_size": 281,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								206,
-								206
+								281,
+								281
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/c/Sites/benjaminmartinus/style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 392,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								362,
-								362
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 81.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
 					"type": "text"
 				}
 			]
